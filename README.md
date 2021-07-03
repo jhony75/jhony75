@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jônatas</h1>
 <h3 align="center">A Brazilian student, passionate teacher and tech enthusiast.</h3>
+<h3 align="center">Currently working as a intern developer on Fielo.</h3>
 <hr>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhony75" alt="jhony75" /></a> </p> -->
 
 - 🔭 I’m currently working on **Nightingale Bootstraper**
 
-- 🌱 I’m currently learning **Full-Stack Web Development and Golang**
+- 🌱 I’m currently learning **Front-end development**
 
 - 📫 How to reach me **jonatas.lima.medeiros@live.com**
 <hr>
@@ -15,7 +14,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left"> Programming Languages:</h4>
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+<!-- Bash --> 
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<!-- C --> 
+<!-- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
+<!-- Cpp --> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<!-- Ruby --> 
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a>
+<!-- JavaScript --> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+<!-- TypeScript --> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+
 
 <h4 align="left">Front End Development:</h4>
 
