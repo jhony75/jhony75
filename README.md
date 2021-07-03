@@ -15,7 +15,7 @@
 <h4 align="left"> Programming Languages:</h4>
 
 <!-- Bash --> 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gnubash.svg" />
 <!-- C --> 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
 <!-- Cpp --> 
@@ -30,13 +30,37 @@
 
 <h4 align="left">Front End Development:</h4>
 
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<h4 align="left">Back End Development:</h4>
-<p align="left"> <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
+<!-- Html5 -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
+<!-- Css3 -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
+<!-- Sass -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />
+<!-- React -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
 
 <h4 align="left">Database:</h4>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<!-- PostgreSql -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" />
+
+<h4 align="left">Operating Systems:</h4>
+
+<!-- Linux -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" />
+<!-- Arch Linux -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg" />
+
+<h4 align="left">IDEs and Text Editors</h4>
+
+<!-- VScode -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
+<!-- Vim -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg" />
+<!-- NeoVim -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/neovim.svg" />
 
 <h4 align="left">Others:</h4>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<!-- git -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />
