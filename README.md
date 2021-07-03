@@ -17,15 +17,15 @@
 <!-- Bash --> 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <!-- C --> 
-<img style="color: #A8B9CC" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
 <!-- Cpp --> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />
 <!-- Ruby --> 
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ruby.svg" />
 <!-- JavaScript --> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 <!-- TypeScript --> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
 
 
 <h4 align="left">Front End Development:</h4>
